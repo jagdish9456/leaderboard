@@ -1,6 +1,11 @@
 # devleaderboard
 
-For developer git commits
+For developer git commits 
+
+````
+For commit use CMD
+
+````
 
 ## Project setup
 ```
