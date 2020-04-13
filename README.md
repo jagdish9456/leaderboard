@@ -1,5 +1,7 @@
 # devleaderboard
 
+For developer git commits
+
 ## Project setup
 ```
 npm install
