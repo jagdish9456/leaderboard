@@ -3,7 +3,7 @@
     <label for="DateTime">Enter Date & Time of git Commit</label>
     <input type="datetime-local" v-model="commitDate" id="DateTime" class="form-control" />
     <br />
-    <label for="comment">Enter Commit Comment</label>
+    <label for="comment">Enter Commit Comments</label>
     <input type="text" style="width:100%;margin-left:0px" id="comment" v-model="commitComment" class="form-control" />
     <br />
     <b-button variant="danger" @click="AddCommitForUser()">Add New Commit</b-button>
